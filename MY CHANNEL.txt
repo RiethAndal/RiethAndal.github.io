@@ -1,0 +1,67 @@
+<html>
+<head> <title> MY CHANNEL </title> </head>
+<!-- Awesome Font CSS File -->
+<link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<!-- My Custom CSS File -->
+<link href="hybridmenu.css" rel="stylesheet">
+
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<body background="0001.jpg">
+<br>
+<br>
+<br>
+<br>
+
+<font face="Segoe Ui light" size="8" color="white">
+
+<center>
+<br>
+<br><br>
+
+<a href="https://www.youtube.com/channel/UCBKpKK57Zyr7Ibj_x-U9XcA"><img src="button.png"> </a> <br>
+<nav id="mobile-menu"></nav>
+<nav id="hybridmenu">
+<ul class="main-menu">
+<li class="mobile-menu-item"><i class="fa fa-bars"></i></li>
+<li class="logo">
+  <a href="#" title="home">
+    <img src="https://yt3.ggpht.com/-tKmtWP8MZ7k/AAAAAAAAAAI/AAAAAAAAAAA/DkCMTpFI1Fs/s100-c-k-no/photo.jpg" alt="logo">
+  </a>
+</li>                 
+<li class="parent">
+  <a href="RIETH ANDAL.html>"><i class="fa fa-html5"></i><span>Home</span></a>
+</li>
+<li class="parent">
+  <a href="MY CHANNEL.html"><i class="fa fa-css3"></i><span>My Channel</span></a>
+ </li>
+<li class="parent">
+  <a href="file:///C:/Users/Rieth-Pc/Desktop/NEW%20WEBSITE/RENDER%20REQUEST.html"><i class="fa fa-gear"></i><span>Request a render</span></a>
+</li>        
+<li class="parent">
+  <a href="https://www.facebook.com/jhonnelrieth.andal"><i class="fa fa-phone"></i><span>My Facebook</span></a>
+</li>
+</nav><!-- Main Navigation End --> 
+
+
+
+<!-- jQuery -->
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
+
+<!-- My Custom JAVASCRIPT File -->
+
+<script src="hybridmenu.js">
+
+	/***********************************************
+	* Responsive Hybrid Menu- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
+	* This notice MUST stay intact for legal use
+	* Visit Dynamic Drive at http://www.dynamicdrive.com/ for this script and 100s more
+	***********************************************/
+
+</script>

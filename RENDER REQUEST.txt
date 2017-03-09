@@ -1,0 +1,73 @@
+<html>
+<head> <title> RENDER REQUEST </title> </head>
+<meta name="viewport" content="width=device-width">
+<!-- Awesome Font CSS File -->
+<link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<!-- My Custom CSS File -->
+<link href="hybridmenu.css" rel="stylesheet">
+
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<body background="wall 2.jpg">
+<center>
+<br>
+<br>
+<br>
+<br>
+<b>
+<font face="segoe ui" color="blue">
+<h1>RESULTS</h1>
+<br>
+<img src="Untitled.jpg" width=1000 height=400>
+<br>
+<h1>RENDER REQUESTING IS CURRENTLY CLOSED UTILL THE REQUESTING ENGINE IS FIXED</h1>
+</font>
+</b>
+
+
+</center>
+<nav id="mobile-menu"></nav>
+<nav id="hybridmenu">
+<ul class="main-menu">
+<li class="mobile-menu-item"><i class="fa fa-bars"></i></li>
+<li class="logo">
+  <a href="#" title="home">
+    <img src="https://yt3.ggpht.com/-tKmtWP8MZ7k/AAAAAAAAAAI/AAAAAAAAAAA/DkCMTpFI1Fs/s100-c-k-no/photo.jpg" alt="logo">
+  </a>
+</li>                 
+<li class="parent">
+  <a href="index.html"><i class="fa fa-html5"></i><span>Home</span></a>
+</li>
+<li class="parent">
+ <a href="index-3.html"><i class="fa fa-css3"></i><span>My Channel</span></a>
+ </li>
+<li class="parent">
+  <a href="index-2.html"><i class="fa fa-gear"></i><span>Request a render</span></a>
+</li>        
+<li class="parent">
+  <a href="https://www.facebook.com/jhonnelrieth.andal"><i class="fa fa-phone"></i><span>My Facebook</span></a>
+</li>
+</nav><!-- Main Navigation End --> 
+
+
+
+<!-- jQuery -->
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
+
+<!-- My Custom JAVASCRIPT File -->
+
+<script src="hybridmenu.js">
+
+	/***********************************************
+	* Responsive Hybrid Menu- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
+	* This notice MUST stay intact for legal use
+	* Visit Dynamic Drive at http://www.dynamicdrive.com/ for this script and 100s more
+	***********************************************/
+
+</script>
